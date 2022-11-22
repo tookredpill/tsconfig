@@ -1,0 +1,25 @@
+{
+  "name": "@tookredpill/tsconfig",
+  "version": "1.1.0",
+  "description": "Shared TypeScript config for my projects.",
+  "author": {
+    "name": "tookredpill",
+    "url": "https://tookredpill.xyz",
+    "email": "tookredpill@tutanota.com"
+  },
+  "files": [
+    "./configs"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tookredpill/tsconfig.git"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "peerDependencies": {
+    "typescript": "^4.8.0"
+  }
+}
